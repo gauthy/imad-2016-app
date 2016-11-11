@@ -28,6 +28,8 @@ body {
     
     font-family: sans-serif;
     text-align: center;
+    background: url('bg.jpg') no-repeat center center fixed;
+    height:300px;
 }
 .container {
     
