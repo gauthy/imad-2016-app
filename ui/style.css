@@ -18,7 +18,12 @@ body {
 .img-medium {
     height: 200px;
 }
-
+.yellow{
+	border-top: 5px double #F5A623;
+	width: 250px;
+	 border-bottom: none;
+  border-right: none;
+}
 .container {
     
     font-family: sans-serif;
