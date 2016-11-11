@@ -35,7 +35,7 @@ body {
 .container {
     
     font-family: sans-serif;
-    background: url('bg2.jpg') no-repeat center center fixed;
+    background: url('bg1.jpg') no-repeat center center fixed;
     height: 600px;
 }
 h5{
