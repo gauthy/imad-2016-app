@@ -81,6 +81,12 @@ li {
 {
     text-align:center;
 }
+.nav-link1
+{
+     border-style: solid;
+   border-color: white;
+   text-decoration:none;
+}
 
 h4{
     text-align:center;
