@@ -40,7 +40,7 @@ function createTemplate (data) {
       <body>
           <div class="container">
               <div>
-                  <a href="/" class="nav-link1">Home</a>
+                  <a href="/" >Home</a>
               </div>
               <hr/>
               <div class="commentsec">
