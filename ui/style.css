@@ -102,3 +102,8 @@ h4{
    text-align:center;
   margin-left: 30px;
 }
+
+.about-me{
+    max-width: 400px;
+  margin: 40px auto;
+}
