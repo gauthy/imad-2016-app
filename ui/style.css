@@ -35,7 +35,9 @@ body {
     padding-bottom: 10px;
     border-bottom: 1px solid #ccc;
 }
-
+.log {
+    margin-left: 10%;
+}
 .commenter {
     font-style: italic;
     font-size: 0.8em;
