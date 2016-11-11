@@ -1,8 +1,6 @@
 body {
     font-family: sans-serif;
     background-color: lightgrey;
- 
-    margin-top: 60px;
 }
 
 .center {
@@ -25,6 +23,7 @@ body {
     
     font-family: sans-serif;
     background: url('bg.jpg') no-repeat center center fixed;
+    height: 600px;
 }
 
 .comment {
