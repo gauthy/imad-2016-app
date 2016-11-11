@@ -108,3 +108,23 @@ h4{
     max-width: 600px;
   margin: 40px auto;
 }
+
+.contact-me {
+  height: 350px;
+  background-color: #202020;
+  padding-top: 30px;
+}
+.contact-headline {
+  color: white;
+}
+.contact-info {
+  color: white;
+  font-size: 13px;
+   margin-top: 30px;
+}
+.contact-link {
+  color: white;
+   font-weight: bold;
+  font-size: 13px;
+}
+
