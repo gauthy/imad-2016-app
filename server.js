@@ -39,8 +39,8 @@ function createTemplate (data) {
       </head> 
       <body>
           <div class="container">
-             <ul> <li class="nav-link1">
-                  <a href="/" >Home</a>
+             <ul> <li>
+                  <a href="/" style="text-decoration:none">Home</a>
               </li></ul>
               <hr/>
               <div class="commentsec">
