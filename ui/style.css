@@ -33,7 +33,12 @@ body {
     background: url('bg.jpg') no-repeat center center fixed;
     height: 600px;
 }
-
+h3{
+		text-align: center;
+		font-size: 28px;
+		font-weight: normal;
+		margin-top: 100px;
+	}
 .comment {
     margin-left: 10px;
     padding-bottom: 10px;
