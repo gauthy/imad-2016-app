@@ -28,8 +28,9 @@ body {
     
     font-family: sans-serif;
     text-align: center;
-    background: url('bg.jpg') no-repeat center center fixed;
+    background: url('bg2.jpg') no-repeat center center fixed;
     height:300px;
+    text-decoration: none;
 }
 .container {
     
