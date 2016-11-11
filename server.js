@@ -40,7 +40,8 @@ function createTemplate (data) {
       <body>
           <div class="container">
              <ul> <li>
-                  <a href="/" style="text-decoration:none">Home</a>
+                  <a href="/" style="text-decoration:none";border-style: solid;
+   border-color: white; >Home</a>
               </li></ul>
               <hr/>
               <div class="commentsec">
