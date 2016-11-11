@@ -60,6 +60,7 @@ h3{
 }
 
 #comment_form {
+    text-align: center;
     margin-left: 10px;
     padding-bottom: 10px;
     border-bottom: 1px solid #ccc;
