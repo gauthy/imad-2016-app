@@ -47,12 +47,14 @@ h3{
 .comment {
     margin-left: 10px;
     padding-bottom: 10px;
+    text-align: center;
     border-bottom: 1px solid #ccc;
 }
 .log {
     margin-left: 70%;
 }
 .commenter {
+    text-align: center;
     font-style: italic;
     font-size: 0.8em;
 }
