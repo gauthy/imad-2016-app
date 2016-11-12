@@ -38,7 +38,7 @@ function createTemplate (data) {
           <link href="/ui/style.css" rel="stylesheet" />
       </head> 
       <body>
-          <div class="container">
+          <div >
              <ul> <li>
                   <a href="/" style="text-decoration:none" >Home</a>
               </li></ul>
