@@ -44,7 +44,7 @@ function createTemplate (data) {
               </li></ul>
               <hr/>
               <div class="commentsec">
-              <h3>
+              <h3 class="titl">
                   ${heading}
               </h3>
               <div>
