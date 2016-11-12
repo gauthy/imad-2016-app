@@ -22,7 +22,7 @@ body {
 	border-top: 5px double #F5A623;
 	width: 250px;
 	 border-bottom: none;
-     border-right: none;
+  border-right: none;
 }
 .articles1{
     
@@ -131,7 +131,6 @@ h4{
   color: white;
   font-size: 13px;
    margin-top: 30px;
-   text-align:center;
 }
 .contact-link {
   color: white;
