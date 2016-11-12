@@ -18,8 +18,8 @@ body {
 .img-medium {
     height: 200px;
 }
-.yellow{
-	border-top: 5px double #F5A623;
+.red{
+	border-top: 5px double Red;
 	width: 250px;
 	 border-bottom: none;
   border-right: none;
