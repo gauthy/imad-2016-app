@@ -116,7 +116,7 @@ function loadArticles () {
                 for (var i=0; i< articleData.length; i++) {
                     content += `<li>
                     <a href="/articles/${articleData[i].title}" class="nav-link2">${articleData[i].heading}</a>
-                    (${articleData[i].date.split('T')[0]})</li><br>`;
+                    (${articleData[i].date.split('T')[0]})</li><br><br>`;
                 }
                 content += "</ol>"
                 articles.innerHTML = content;
