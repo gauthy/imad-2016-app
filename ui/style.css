@@ -90,6 +90,10 @@ li {
 h4{
     text-align:center;
 }
+.cont{
+    font-style:italic;
+    font-size:25px;
+}
 
 .but{
     display: inline-block;
