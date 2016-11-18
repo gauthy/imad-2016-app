@@ -18,6 +18,7 @@ body {
 
 .img-medium {
     height: 200px;
+    border-radius:100%;
 }
 .red{
 	border-top: 5px double Red;
