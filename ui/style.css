@@ -27,6 +27,7 @@ body {
 .img-medium {
     height: 200px;
     border-radius:100%;
+    border:5px darkblue solid;
 }
 .red{
 	border-top: 5px double Red;
