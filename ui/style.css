@@ -64,6 +64,7 @@ h5{
     border-bottom: 1px solid #ccc;
 }
 .log {
+    float:right;
     position:relative;
     top:-15px;
 }
