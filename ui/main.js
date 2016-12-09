@@ -1,7 +1,7 @@
 function loadLoginForm () {
     var loginHtml = `
         <h3>Login/Signup here friends.</h3>
-        <input type="text" id="username" placeholder="username" style="background-color:#33FFF9  ; color:Lime;" />
+        <input type="text" id="username" placeholder="username" style="background-color:#33FFF9  ; color:Lime;margin-radius:10%; " />
         <input type="password" id="password" placeholder="password" style="background-color:#33FFF9  ; color:Lime;" />
         <br/><br/>
         <input type="submit" id="login_btn" value="Login" class="buton"/>
